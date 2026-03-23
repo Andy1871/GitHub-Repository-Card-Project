@@ -12,8 +12,8 @@ A personal developer portfolio built with Next.js that fetches and displays your
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Andy1871/github-repo-card-list.git
-   cd github-repo-card-list
+   git clone https://github.com/Andy1871/github-repo-card-project.git
+   cd github-repo-card-project
    ```
 
 2. **Install dependencies**
